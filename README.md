@@ -4,7 +4,7 @@ I am an IT professional with hands on experience in a mutlitude of fields within
 
 
  I’m currently working on ...
-A cool social media platform that will serve as a one stop shop for your social network's dining reccomendations! 
+A cool social media platform that will serve as a one stop shop for your social network's dining and prayer recomendations! 
 
 
 Certifications:
