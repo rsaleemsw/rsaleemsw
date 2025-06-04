@@ -1,10 +1,23 @@
 Hi there, my name is Rehan Saleem
 
 I am an IT professional with hands on experience in a mutlitude of fields within the technology space, including cybersecurity, IT operations, cloud infrastructure/configuration, and AI. 
+  
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to bring value in security/cloud security to help safeguard valuable assets as an aspiring security professional.
 
 
- I’m currently working on ...
-A cool social media platform that will serve as a one stop shop for your social network's dining and prayer recomendations! 
+
+🎓 Education: B.S. in Cybersecurity Management and Analytics & Business Information Technology
+
+📚 Certifications: CompTIA Security+, AWS Solutions Architect, AZ-900
+
+
+
+
+Current Work: 
+ 
+Hands-on cybersecurity projects, learning Kubernetes, cloud security, and projects that I'm passionate about that will provide real value!
+
+Current proejct: A cool social media platform that will serve as a one stop shop for your social network's dining and prayer recomendations
 
 
 Certifications:
