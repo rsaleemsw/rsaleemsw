@@ -2,7 +2,7 @@ Hi there, my name is Rehan Saleem
 
 I am an IT professional with hands on experience in a mutlitude of fields within the technology space, including cybersecurity, IT operations, cloud infrastructure/configuration, and AI. 
   
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to bring value in security/cloud security to help safeguard valuable assets as an aspiring security professional.
+My background and experiences have enabled me to develop a passion for cybersecurity and cloud computing. I love solving real problems and delivering real value. 
 
 
 
