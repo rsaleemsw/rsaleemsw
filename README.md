@@ -17,7 +17,7 @@ Current Work:
  
 Hands-on cybersecurity projects, learning Kubernetes, cloud security, and projects that I'm passionate about that will provide real value!
 
-Current proejct: A cool social media platform that will serve as a one stop shop for your social network's dining and prayer recomendations
+Current project: A cool social media platform that will serve as a one stop shop for your social network's dining and prayer recomendations
 
 
 Certifications:
