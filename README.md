@@ -1,23 +1,17 @@
 Hi there, my name is Rehan Saleem
 
-I am an IT professional with hands on experience in a mutlitude of fields within the technology space, including cybersecurity, IT operations, cloud infrastructure/configuration, and AI. 
-  
-My background and experiences have enabled me to develop a passion for cybersecurity and cloud computing. I love solving real problems and delivering real value. 
+I’m a professional in the tech space with hands-on experience in cloud infrastructure, secure SDLC, and AI-driven systems. 
 
+I’ve worked on projects that bring together innovation and security — from automating multi-tenant environments at Pam AI to setting up hardened cloud systems at Revenue Solutions Inc. Having been part of both startups and larger organizations, I’ve learned how to move fast without compromising quality. Lastly, I enjoy roles where I get to take ownership, solve real problems, and make measurable impact.
 
 
 🎓 Education: B.S. in Cybersecurity Management and Analytics & Business Information Technology
 
 📚 Certifications: CompTIA Security+, AWS Solutions Architect, AZ-900
 
+Currently at: Pam AI, building the future of what is possible with voice AI. 
 
 
-
-Current Work: 
- 
-Hands-on cybersecurity projects, learning Kubernetes, cloud security, and projects that I'm passionate about that will provide real value!
-
-Current project: A cool social media platform that will serve as a one stop shop for your social network's dining and prayer recomendations
 
 
 Certifications:
