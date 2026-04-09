@@ -16,7 +16,7 @@ Currently at: Pam AI, building the future of what is possible with voice AI.
 
 Certifications:
 
-<img src="https://www.lindenwood.edu/files/resources/xpace-comptia-security-training-02.png.pagespeed.ic.1Dci48D-U6.png" width="110" height="100">  <img src="https://miro.medium.com/v2/resize:fit:600/1*E6tqmlvuylHL8SMlOYUqhQ.png" width="100" height="100"> <img src="https://media.licdn.com/dms/image/v2/C4E12AQH-e2WPGP0YXQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1649839178239?e=2147483647&v=beta&t=JkwLGpRDZMxeC9u-zmVrNsOAoQBThZcmn5K8LTHD0Gw" width="100" height="100"> 
+<img src="https://miro.medium.com/v2/0*69PPg3yYvglLmlsl" width="110" height="100">  <img src="https://miro.medium.com/v2/resize:fit:600/1*E6tqmlvuylHL8SMlOYUqhQ.png" width="100" height="100"> <img src="https://media.licdn.com/dms/image/v2/C4E12AQH-e2WPGP0YXQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1649839178239?e=2147483647&v=beta&t=JkwLGpRDZMxeC9u-zmVrNsOAoQBThZcmn5K8LTHD0Gw" width="100" height="100"> 
 
 
 
